@@ -1,6 +1,6 @@
 # Tugas Individu Pertemuan 7 - Pemrograman Berorientasi Objek (TI033015)
 ## Topik: Routing, Controller, dan Blade Template Engine
-**Program Studi Teknik Informatika — Universitas Catur Insan Cendekia (UCIC)**  
+**Program Studi Teknik Informatika, Universitas Catur Insan Cendekia (UCIC)**  
 **Dosen Pengampu:** Hilman Lesmana, S.T., M.S.F.
 
 ---
