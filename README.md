@@ -57,3 +57,17 @@ Proyek ini merupakan implementasi tugas individu Pertemuan 7 mata kuliah Pemrogr
    * Halaman Daftar Ruangan: `http://127.0.0.1:8000/ruangan`
    * Halaman Detail Ruangan: `http://127.0.0.1:8000/ruangan/1`
    * Halaman Form Peminjaman: `http://127.0.0.1:8000/peminjaman/create/1`
+
+---
+
+### 6. Dokumentasi Tangkapan Layar (Screenshots)
+
+#### Halaman Daftar Ruangan (`/ruangan`)
+![Daftar Ruangan](screenshots/daftar-ruangan.jpg)
+
+#### Halaman Detail Ruangan (`/ruangan/1`)
+![Detail Ruangan](screenshots/detail-ruangan.png)
+
+#### Halaman Form Pengajuan Peminjaman (`/peminjaman/create/1`)
+![Form Pengajuan Peminjaman](screenshots/form-peminjaman.png)
+
